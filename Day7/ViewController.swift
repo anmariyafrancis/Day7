@@ -12,7 +12,6 @@ class ViewController: UIViewController
 {
     lazy var employeeList=[Employee]()
     
-    
     override func viewDidLoad()
     {
         super.viewDidLoad()

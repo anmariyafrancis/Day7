@@ -15,4 +15,5 @@ class EmployeeTableViewCell: UITableViewCell
     @IBOutlet weak var lblSalary: UILabel!
     @IBOutlet weak var lblLastName: UILabel!
     @IBOutlet weak var imageEmployee: UIImageView!
+    
 }
